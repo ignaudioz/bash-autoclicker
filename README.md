@@ -10,9 +10,9 @@
 ## Install
 
 ```sh
-git clone https://github.com/ignaudioz/bash-autoclicker.git &
-cd bash-autoclicker &
-sh clicker.sh &
+git clone https://github.com/ignaudioz/bash-autoclicker.git
+cd bash-autoclicker 
+sh clicker.sh
 ```
 
 ## Author
