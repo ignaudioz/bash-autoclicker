@@ -1,4 +1,4 @@
-# Bash mc autoclicker
+# Bash Minecraft autoclicker
 > simple bash autoclicker for minecraft which bypasses most servers ^_^
 
 ## Install
