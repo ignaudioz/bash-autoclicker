@@ -19,9 +19,9 @@ sh clicker.sh
 
 👤 **audioz**
 
-* Website: https://audioz.space
 * Twitter: [@ignaudioz](https://twitter.com/ignaudioz)
 * Github: [@ignaudioz](https://github.com/ignaudioz)
+* Gitlab: [@audioz](https://gitlab.com/audioz)
 
 ## Requirements
 
