@@ -13,9 +13,7 @@ sh clicker.sh
 
 👤 **audioz**
 
-* Twitter: [@ignaudioz](https://twitter.com/ignaudioz)
-* Github: [@ignaudioz](https://github.com/ignaudioz)
-* Gitlab: [@audioz](https://gitlab.com/audioz)
+* Discord : @audioz
 
 ## Requirements
 
